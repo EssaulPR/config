@@ -1,6 +1,6 @@
-Host github.com-anivia
+Host github.com-name
     Hostname github.com
-    IdentityFile ~/.ssh/id_Anivia
+    IdentityFile ~/.ssh/id_name
     IdentitiesOnly yes
 
 Host github.com-personal
